@@ -1,0 +1,7 @@
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\bin\Debug\Exo04.exe.config
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\bin\Debug\Exo04.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\bin\Debug\Exo04.pdb
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\obj\Debug\Exo04.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\obj\Debug\Exo04.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\obj\Debug\Exo04.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Exo04\obj\Debug\Exo04.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\bin\Debug\Morpion.exe.config
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\bin\Debug\Morpion.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\bin\Debug\Morpion.pdb
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\obj\Debug\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\obj\Debug\Morpion.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Morpion\obj\Debug\Morpion.pdb

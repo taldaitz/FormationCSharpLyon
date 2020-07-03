@@ -1,0 +1,6 @@
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\bin\Debug\MelunFootballClub.exe.config
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\bin\Debug\MelunFootballClub.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\bin\Debug\MelunFootballClub.pdb
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\obj\Debug\MelunFootballClub.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\obj\Debug\MelunFootballClub.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\MelunFootballClub\obj\Debug\MelunFootballClub.pdb

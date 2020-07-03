@@ -1,0 +1,6 @@
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\bin\Debug\Revision2.exe.config
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\bin\Debug\Revision2.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\bin\Debug\Revision2.pdb
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\obj\Debug\Revision2.csprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\obj\Debug\Revision2.exe
+C:\Users\Dawan\source\repos\FormationCSharpLyon\Revision2\obj\Debug\Revision2.pdb
